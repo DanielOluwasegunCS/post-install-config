@@ -32,7 +32,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <img src="https://imgur.com/PxESC6Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+I created a "Supreme Admin" role that has permissions to do everything.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 <img src="https://imgur.com/2PB38tp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+I created a "System Administrators" department with default settings.
 </p>
 <br />
 
@@ -48,7 +48,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 <img src="https://imgur.com/xG08erV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+I created a "Level II Support" team with default settings.
 </p>
 <br />
 
@@ -56,7 +56,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 <img src="https://imgur.com/m2Bakru.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+I created two agents called "Jane Doe" and "John Doe," which are the actual help desk professionals.
 </p>
 <br />
 
@@ -64,7 +64,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 <img src="https://imgur.com/NEMRVgg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+I created two users called "Karen Karson" and "Ken Karson," which are the customers who create the help tickets.
 </p>
 <br />
 
@@ -72,7 +72,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 <img src="https://imgur.com/9IJqKAr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+I created three SLA plans called "Sev-A," "Sev-B," and Sev-C." They have different grace periods and schedules depeneding on the severity.
 </p>
 <br />
 
@@ -80,6 +80,6 @@ It is important to take care of the patient, to be followed by the patient, but 
 <img src="https://imgur.com/YB0oTc9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+I created four help topics called "Business Critical Outage," "Personal Computer Issues," "Equipment Request," and "Password Reset." These help streamline end-user's help desk experience because they ensure a proper assignment and a prompt response to a ticket.
 </p>
 <br />
